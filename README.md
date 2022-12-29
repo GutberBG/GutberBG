@@ -1,16 +1,25 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Gutber</h1>
+<h3 align="center">A software engineer student and fullstack programmer from Bolivia</h3>
 
-<!--
-**GutberBG/GutberBG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💬 Ask me about
+- Backend web development (Python, Node.js, PHP)
+- Frontend web development (Vue.js)
+- Movil development
+- Docker
+- Deep Learning and Machine Learning
+- Cloud Architecture
+- Design Patterns
 
-Here are some ideas to get you started:
+## 📅 Hobbies
+- Solve programming problems at Codeforces, UVa, LeetCode
+- Watch and play sports ⚽
+- Listen and compose music 🎵
+- Play videogames
+- Read books
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Current project
+- Virtual campus system for an educational institute from Bolivia
+- Inventory and administration management system for a construction company
+
+## 📚 Learning
+- Dart–Flutter programming language
